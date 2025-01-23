@@ -1,7 +1,7 @@
 # Personal AIM Today
 
 ## Overzicht
-**Personal AIM Today** dit is mijn persoonlijke repository voor het AIM Today groepsproject, gericht  op het maken van een nieuwswebsite rond marketing, communicatie en ondernemerschap. De doelgroep zijn dan ook marketingprofessionals, ondernemers en bedrijfsleiders met interesse in marketing. Mijn bijdrage aan het project was het ontwerpen en ontwikkelen van de artikelpagina.
+Dit is mijn persoonlijke repository voor het AIM Today groepsproject, gericht  op het maken van een nieuwswebsite rond marketing, communicatie en ondernemerschap. De doelgroep zijn dan ook marketingprofessionals, ondernemers en bedrijfsleiders met interesse in marketing. Mijn bijdrage aan het project was het ontwerpen en ontwikkelen van de artikelpagina.
 ---
 
 ## Structuur
